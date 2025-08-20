@@ -37,7 +37,7 @@ export const data = {
             year: '2025',
             month: 'Agustus',
             date: '31',
-            day: 'Sabtu',
+            day: 'Minggu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
