@@ -24,18 +24,6 @@ export const data = {
         marriage: {
             year: '2025',
             month: 'Agustus',
-            date: '31',
-            day: 'Minggu',
-            hours: {
-                start: '08.00',
-                finish: 'Selesai'
-            },
-            address: 'Kalikebo, Rejosari,Bandongan, Magelang',
-            maps: ''
-        },
-        reception: {
-            year: '2025',
-            month: 'Agustus',
             date: '30',
             day: 'Sabtu',
             hours: {
@@ -44,6 +32,18 @@ export const data = {
             },
             address: 'Kemloko, Bumiayu, Selopampang, Temanggung',
             maps: 'https://maps.app.goo.gl/qwmp5CMEEcu82rBp8'
+        },
+        reception: {
+            year: '2025',
+            month: 'Agustus',
+            date: '31',
+            day: 'Sabtu',
+            hours: {
+                start: '08.00',
+                finish: 'Selesai'
+            },
+            address: 'Kalikebo, Rejosari,Bandongan, Magelang',
+            maps: ''
         },
         address: ''
     },
