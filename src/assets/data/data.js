@@ -65,18 +65,18 @@ export const data = {
     ],
 
     bank: [
-        {
-            id: 1,
-            name: 'Lorem Ipsum',
-            icon: './src/assets/images/bca.png',
-            rekening: '12345678'
-        },
-        {
-            id: 2,
-            name: 'Ipsum Lorem',
-            icon: './src/assets/images/bri.png',
-            rekening: '12345678'
-        },
+        // {
+        //     id: 1,
+        //     name: 'Lorem Ipsum',
+        //     icon: './src/assets/images/bca.png',
+        //     rekening: '12345678'
+        // },
+        // {
+        //     id: 2,
+        //     name: 'Ipsum Lorem',
+        //     icon: './src/assets/images/bri.png',
+        //     rekening: '12345678'
+        // },
     ],
 
     audio: './src/assets/audio/wedding.mp3',
