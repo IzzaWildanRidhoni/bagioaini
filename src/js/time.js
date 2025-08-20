@@ -32,8 +32,8 @@ export const time = () => {
         return html;
     };
 
-    marriageDiv.innerHTML = createTimeListItem('Akad Nikah', data.time.marriage);
-    receptionDiv.innerHTML = createTimeListItem('Resepsi', data.time.reception);
+    marriageDiv.innerHTML = createTimeListItem('Resepsi', data.time.marriage);
+    receptionDiv.innerHTML = createTimeListItem('Akad Nikah', data.time.reception);
 
     // kalau data.link.map ada, baru set mapLink
     if (data.link.map && data.link.map.trim() !== "") {
